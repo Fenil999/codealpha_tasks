@@ -1,0 +1,16 @@
+Order ID,Category,Sub-Category,Sales,Profit
+CA-2016-152156,Furniture,Bookcases,261.96,41.91
+CA-2016-152156,Furniture,Chairs,731.94,219.58
+CA-2016-138688,Office Supplies,Labels,14.62,6.87
+US-2015-108966,Technology,Phones,911.42,457.81
+US-2015-108966,Technology,Accessories,15.55,5.44
+CA-2017-123456,Office Supplies,Binders,22.37,10.25
+CA-2017-123456,Technology,Copiers,999.99,300.0
+US-2016-222222,Furniture,Tables,350.45,-50.25
+CA-2018-333333,Furniture,Furnishings,125.6,15.75
+US-2017-444444,Office Supplies,Storage,85.3,20.3
+CA-2017-555555,Technology,Machines,500.75,100.4
+US-2016-666666,Technology,Phones,1299.0,600.0
+CA-2016-777777,Furniture,Chairs,450.1,-120.5
+US-2018-888888,Office Supplies,Art,12.5,3.25
+CA-2018-999999,Technology,Accessories,199.99,75.0
